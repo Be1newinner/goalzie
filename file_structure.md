@@ -1,3 +1,4 @@
+```bash
 /src
   /modules
     /auth
@@ -96,3 +97,4 @@
   schema.prisma           # The main Prisma schema defining your PostgreSQL models, relations
   migrations/             # Auto-generated migration files by Prisma Migrate
   seed.ts                 # Optional Prisma seed script to populate initial DB data
+```
